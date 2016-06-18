@@ -3,7 +3,8 @@ import pickle
 from tagger import Tagger
 import pandas as pd
 import re
-
+import pymorphy2
+from nltk.tokenize import wordpunct_tokenize
 
 def clean_str(string):
     """
@@ -31,9 +32,24 @@ mystemmer = tagger.Stemmer() # or your own stemmer class
 myrater = tagger.Rater(weights) # or your own... (you got the idea)
 mytagger = Tagger(myreader, mystemmer, myrater)
 tags = []
-f = pd.read_csv('articlesabsctracts2.csv')
+f = pd.read_csv('clean.csv')
 abstracts = f['abstract']
 abstracts = [clean_str(a) for a in abstracts]
+abstracts = [wordpunct_tokenize(a) for a in abstracts]
+morph = pymorphy2.MorphAnalyzer()
+for i in range(len(abstracts)):
+	print (i)
+	m = []
+	for w in abstracts[i]:
+		try:
+			lemma = morph.parse(w)[0].normal_form
+		except:
+			pass
+		m.append(lemma)
+	abstracts[i] = m
+
+abstracts = [' '.join(a) for a in abstracts]
+
 for a in abstracts:
 	tags.append(mytagger(a))
 
@@ -43,9 +59,10 @@ for i in range(len(tags)-1):
 tags_combined = []
 for tag in tags:
 	tags_combined += tag
-
+tags_combined = list(set(tags_combined))
 df = pd.DataFrame(False, index = tags_combined, columns =(xrange(len(f)-1)) )
 
 for i in range(len(tags)-1):
 	for t in tags[i]:
 		df.values[[tags_combined.index(t)], [i]] = True
+df.to_csv('index2.csv')

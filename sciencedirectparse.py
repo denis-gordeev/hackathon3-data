@@ -9,7 +9,6 @@ scraper = cfscrape.create_scraper()
 f = open('articlesabsctracts.csv', 'w')
 
 month = 67
-j = 0 
 while month > 1:
 	month = month - 1
 	print ("Month ", month) 
@@ -37,8 +36,7 @@ while month > 1:
 			title = title.encode('utf-8')
 			print (title)
 			print (link)
-			j += 1
-			f.write(str(j) + ';' + title + ';' + link + ';' + pii + ';' + abstract + '\n')
+			f.write(title + ';' + link + ';' + pii + ';' + abstract + '\n')
 
 		except:
 			pass
