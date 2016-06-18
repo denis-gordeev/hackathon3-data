@@ -30,6 +30,10 @@ while month > 1:
 			abstract = re.findall('dc:description.*?dc:description', r)[0][15:-16]
 			abstract = re.sub(';', ',', abstract)
 			abstract = abstract.encode('utf-8')
+			if abstract.startswith('Absctract'):
+				abstract = re.sub('Absctract','', abstract)
+			elif abstract.startswith('Summary'):
+				abstract = re.sub('Summary','', abstract)
 			title = title.encode('utf-8')
 			print (title)
 			print (link)
