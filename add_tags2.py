@@ -32,8 +32,13 @@ mystemmer = tagger.Stemmer() # or your own stemmer class
 myrater = tagger.Rater(weights) # or your own... (you got the idea)
 mytagger = Tagger(myreader, mystemmer, myrater)
 tags = []
-f = pd.read_csv('clean.csv')
+f = pd.read_csv('articlesabsctracts.csv', delimiter= ';')
 abstracts = f['abstract']
+for i in range(len(f['abstract'])-1):
+	f['abstract'][i] = re.sub('Abstract', '', f['abstract'][i])
+
+for i in range(len(f['abstract'])-1):
+	f['abstract'][i] = re.sub('Summary', '', f['abstract'][i])
 abstracts = [clean_str(a) for a in abstracts]
 abstracts = [wordpunct_tokenize(a) for a in abstracts]
 morph = pymorphy2.MorphAnalyzer()
@@ -58,11 +63,12 @@ for i in range(len(tags)-1):
 
 tags_combined = []
 for tag in tags:
-	tags_combined += tag
-tags_combined = list(set(tags_combined))
+	if tag not in tags_combined:
+		tags_combined.append(tag)
+# tags_combined = list(set(tags_combined))
 df = pd.DataFrame(False, index = tags_combined, columns =(xrange(len(f)-1)) )
 
 for i in range(len(tags)-1):
 	for t in tags[i]:
 		df.values[[tags_combined.index(t)], [i]] = True
-df.to_csv('index2.csv')
+df.to_csv('index3.csv')

@@ -1,0 +1,3331 @@
+(lp1
+S'carnitine'
+p2
+aS'treatment'
+p3
+aS'multiple organ toxicity'
+p4
+aS'doxorubicin cardiomyopathic rat'
+p5
+aS'view'
+p6
+aS'cells'
+p7
+aS'reprogrammed'
+p8
+aS'fibroblast cultures'
+p9
+aS'adult fibroblasts'
+p10
+aS'factors'
+p11
+aS'hydrogel'
+p12
+aS'products'
+p13
+aS'polymeric materials'
+p14
+aS'research'
+p15
+aS'chemical characteristics'
+p16
+aS'cells'
+p17
+aS'reprogrammed'
+p18
+aS'fibroblast cultures'
+p19
+aS'adult fibroblasts'
+p20
+aS'factors'
+p21
+aS'glucose'
+p22
+aS'gastric bypass'
+p23
+aS'peptide 1'
+p24
+aS'gastrostomy tube'
+p25
+aS'patients'
+p26
+aS'tads'
+p27
+aS'genome'
+p28
+aS'limb'
+p29
+aS'human'
+p30
+aS'boundary domain'
+p31
+aS'hydrogel'
+p32
+aS'products'
+p33
+aS'polymeric materials'
+p34
+aS'research'
+p35
+aS'chemical characteristics'
+p36
+aS'polr1a'
+p37
+aS'anomalies'
+p38
+aS'acrofacial dysostosis'
+p39
+aS'individuals'
+p40
+aS'perturbed ribosome biogenesis'
+p41
+aS'cells'
+p42
+aS'reprogrammed'
+p43
+aS'fibroblast cultures'
+p44
+aS'adult fibroblasts'
+p45
+aS'factors'
+p46
+aS'glucose'
+p47
+aS'gastric bypass'
+p48
+aS'peptide 1'
+p49
+aS'gastrostomy tube'
+p50
+aS'patients'
+p51
+aS'tads'
+p52
+aS'genome'
+p53
+aS'limb'
+p54
+aS'human'
+p55
+aS'boundary domain'
+p56
+aS'hydrogel'
+p57
+aS'products'
+p58
+aS'polymeric materials'
+p59
+aS'research'
+p60
+aS'chemical characteristics'
+p61
+aS'polr1a'
+p62
+aS'anomalies'
+p63
+aS'acrofacial dysostosis'
+p64
+aS'individuals'
+p65
+aS'perturbed ribosome biogenesis'
+p66
+aS'transcriptional programs'
+p67
+aS'cells'
+p68
+aS'yeast'
+p69
+aS'regulatory'
+p70
+aS'branched metabolic pathway'
+p71
+aS'parameters'
+p72
+aS'variance'
+p73
+aS'heritable factors'
+p74
+aS'gt'
+p75
+aS'age'
+p76
+aS'organoids'
+p77
+aS'neoplastic murine'
+p78
+aS'resected tumors'
+p79
+aS'human pancreas tissues'
+p80
+aS'orthotopically transplanted neoplastic'
+p81
+aS'cells'
+p82
+aS'reprogrammed'
+p83
+aS'fibroblast cultures'
+p84
+aS'adult fibroblasts'
+p85
+aS'factors'
+p86
+aS'genome'
+p87
+aS'cas9'
+p88
+aS'function'
+p89
+aS'applications'
+p90
+aS'rna guided endonuclease'
+p91
+aS'skeletal muscle'
+p92
+aS'noncoding'
+p93
+aS'micropeptides'
+p94
+aS'rnas'
+p95
+aS'pln'
+p96
+aS'cells'
+p97
+aS'reprogrammed'
+p98
+aS'fibroblast cultures'
+p99
+aS'adult fibroblasts'
+p100
+aS'factors'
+p101
+aS'genome'
+p102
+aS'cas9'
+p103
+aS'function'
+p104
+aS'applications'
+p105
+aS'rna guided endonuclease'
+p106
+aS'target'
+p107
+aS'nicking'
+p108
+aS'cas9 nuclease'
+p109
+aS'specific'
+p110
+aS'cas9 nickase mutant'
+p111
+aS'cells'
+p112
+aS'reprogrammed'
+p113
+aS'fibroblast cultures'
+p114
+aS'adult fibroblasts'
+p115
+aS'factors'
+p116
+aS'genome'
+p117
+aS'cas9'
+p118
+aS'function'
+p119
+aS'applications'
+p120
+aS'rna guided endonuclease'
+p121
+aS'target'
+p122
+aS'nicking'
+p123
+aS'cas9 nuclease'
+p124
+aS'specific'
+p125
+aS'cas9 nickase mutant'
+p126
+aS'cells'
+p127
+aS'reprogrammed'
+p128
+aS'fibroblast cultures'
+p129
+aS'adult fibroblasts'
+p130
+aS'factors'
+p131
+aS'genome'
+p132
+aS'cas9'
+p133
+aS'function'
+p134
+aS'applications'
+p135
+aS'rna guided endonuclease'
+p136
+aS'target'
+p137
+aS'nicking'
+p138
+aS'cas9 nuclease'
+p139
+aS'specific'
+p140
+aS'cas9 nickase mutant'
+p141
+aS'cells'
+p142
+aS'reprogrammed'
+p143
+aS'fibroblast cultures'
+p144
+aS'adult fibroblasts'
+p145
+aS'factors'
+p146
+aS'genome'
+p147
+aS'cas9'
+p148
+aS'function'
+p149
+aS'applications'
+p150
+aS'rna guided endonuclease'
+p151
+aS'target'
+p152
+aS'nicking'
+p153
+aS'cas9 nuclease'
+p154
+aS'specific'
+p155
+aS'cas9 nickase mutant'
+p156
+aS'protein'
+p157
+aS'suntag'
+p158
+aS'recruiting multiple copies'
+p159
+aS'transcriptional activation domain'
+p160
+aS'potent synthetic transcription'
+p161
+aS'exosomes'
+p162
+aS'cell'
+p163
+aS'cancer'
+p164
+aS'dicer'
+p165
+aS'instigate nontumorigenic epithelial'
+p166
+aS'genome'
+p167
+aS'cas9'
+p168
+aS'function'
+p169
+aS'applications'
+p170
+aS'rna guided endonuclease'
+p171
+aS'cells'
+p172
+aS'reprogrammed'
+p173
+aS'fibroblast cultures'
+p174
+aS'adult fibroblasts'
+p175
+aS'factors'
+p176
+aS'cells'
+p177
+aS'stromal'
+p178
+aS'exosomes'
+p179
+aS'therapy'
+p180
+aS'resistance'
+p181
+aS'protein'
+p182
+aS'suntag'
+p183
+aS'recruiting multiple copies'
+p184
+aS'transcriptional activation domain'
+p185
+aS'potent synthetic transcription'
+p186
+aS'exosomes'
+p187
+aS'cell'
+p188
+aS'cancer'
+p189
+aS'dicer'
+p190
+aS'instigate nontumorigenic epithelial'
+p191
+aS'genome'
+p192
+aS'cas9'
+p193
+aS'function'
+p194
+aS'applications'
+p195
+aS'rna guided endonuclease'
+p196
+aS'cells'
+p197
+aS'reprogrammed'
+p198
+aS'fibroblast cultures'
+p199
+aS'adult fibroblasts'
+p200
+aS'factors'
+p201
+aS'cells'
+p202
+aS'stromal'
+p203
+aS'exosomes'
+p204
+aS'therapy'
+p205
+aS'resistance'
+p206
+aS'brain'
+p207
+aS'cubic'
+p208
+aS'analysis'
+p209
+aS'single cell resolution'
+p210
+aS'enables'
+p211
+aS'cac'
+p212
+aS'patients'
+p213
+aS'adverse outcomes'
+p214
+aS'pathogenesis'
+p215
+aS'bypass graft surgery'
+p216
+aS'cells'
+p217
+aS'reprogrammed'
+p218
+aS'fibroblast cultures'
+p219
+aS'adult fibroblasts'
+p220
+aS'factors'
+p221
+aS'cells'
+p222
+aS'transplantation'
+p223
+aS'hscs'
+p224
+aS'reprogramming'
+p225
+aS'myeloid progenitors'
+p226
+aS'cgrp'
+p227
+aS'pain'
+p228
+aS'receptors'
+p229
+aS'mice'
+p230
+aS'trpv1'
+p231
+aS'target'
+p232
+aS'nicking'
+p233
+aS'cas9 nuclease'
+p234
+aS'specific'
+p235
+aS'cas9 nickase mutant'
+p236
+aS'cells'
+p237
+aS'reprogrammed'
+p238
+aS'fibroblast cultures'
+p239
+aS'adult fibroblasts'
+p240
+aS'factors'
+p241
+aS'target'
+p242
+aS'nicking'
+p243
+aS'cas9 nuclease'
+p244
+aS'specific'
+p245
+aS'cas9 nickase mutant'
+p246
+aS'methylation'
+p247
+aS'cytosine'
+p248
+aS'mammalian genome represents'
+p249
+aS'dynamically regulated'
+p250
+aS'developmental modulation'
+p251
+aS'ign'
+p252
+aS'scfas'
+p253
+aS'soluble fiber'
+p254
+aS'propionate'
+p255
+aS'metabolic benefits'
+p256
+aS'cells'
+p257
+aS'reprogrammed'
+p258
+aS'fibroblast cultures'
+p259
+aS'adult fibroblasts'
+p260
+aS'factors'
+p261
+aS'genes'
+p262
+aS'cell'
+p263
+aS'super enhancers'
+p264
+aS'master transcription factors'
+p265
+aS'mediator'
+p266
+aS'somatic cells'
+p267
+aS'scnt'
+p268
+aS'derived'
+p269
+aS'pluripotent embryonic stem'
+p270
+aS'meiosis'
+p271
+aS'target'
+p272
+aS'nicking'
+p273
+aS'cas9 nuclease'
+p274
+aS'specific'
+p275
+aS'cas9 nickase mutant'
+p276
+aS'rna'
+p277
+aS'crispr'
+p278
+aS'dcas9'
+p279
+aS'dna'
+p280
+aS'cells'
+p281
+aS'cells'
+p282
+aS'reprogrammed'
+p283
+aS'fibroblast cultures'
+p284
+aS'adult fibroblasts'
+p285
+aS'factors'
+p286
+aS'genes'
+p287
+aS'cell'
+p288
+aS'super enhancers'
+p289
+aS'master transcription factors'
+p290
+aS'mediator'
+p291
+aS'somatic cells'
+p292
+aS'scnt'
+p293
+aS'derived'
+p294
+aS'pluripotent embryonic stem'
+p295
+aS'meiosis'
+p296
+aS'target'
+p297
+aS'nicking'
+p298
+aS'cas9 nuclease'
+p299
+aS'specific'
+p300
+aS'cas9 nickase mutant'
+p301
+aS'rna'
+p302
+aS'crispr'
+p303
+aS'dcas9'
+p304
+aS'dna'
+p305
+aS'cells'
+p306
+aS'cell'
+p307
+aS'super enhancers'
+p308
+aS'transcription'
+p309
+aS'genes'
+p310
+aS'disease'
+p311
+aS'target'
+p312
+aS'nicking'
+p313
+aS'cas9 nuclease'
+p314
+aS'specific'
+p315
+aS'cas9 nickase mutant'
+p316
+aS'cells'
+p317
+aS'reprogrammed'
+p318
+aS'fibroblast cultures'
+p319
+aS'adult fibroblasts'
+p320
+aS'factors'
+p321
+aS'transcription'
+p322
+aS'multigene complex'
+p323
+aS'chromosomal contacts'
+p324
+aS'cotranscription'
+p325
+aS'immunofluorescence microscopy revealed'
+p326
+aS'senescence'
+p327
+aS'aer'
+p328
+aS'p21'
+p329
+aS'ois'
+p330
+aS'developmental mechanism found'
+p331
+aS'rna'
+p332
+aS'crispr'
+p333
+aS'dcas9'
+p334
+aS'dna'
+p335
+aS'cells'
+p336
+aS'target'
+p337
+aS'nicking'
+p338
+aS'cas9 nuclease'
+p339
+aS'specific'
+p340
+aS'cas9 nickase mutant'
+p341
+aS'aging'
+p342
+aS'hallmarks'
+p343
+aS'epigenetic alterations'
+p344
+aS'mitochondrial dysfunction'
+p345
+aS'dissect'
+p346
+aS'cells'
+p347
+aS'reprogrammed'
+p348
+aS'fibroblast cultures'
+p349
+aS'adult fibroblasts'
+p350
+aS'factors'
+p351
+aS'somatic cells'
+p352
+aS'scnt'
+p353
+aS'derived'
+p354
+aS'pluripotent embryonic stem'
+p355
+aS'meiosis'
+p356
+aS'somatic cells'
+p357
+aS'scnt'
+p358
+aS'derived'
+p359
+aS'pluripotent embryonic stem'
+p360
+aS'meiosis'
+p361
+aS'genes'
+p362
+aS'cell'
+p363
+aS'super enhancers'
+p364
+aS'master transcription factors'
+p365
+aS'mediator'
+p366
+aS'cells'
+p367
+aS'reprogrammed'
+p368
+aS'fibroblast cultures'
+p369
+aS'adult fibroblasts'
+p370
+aS'factors'
+p371
+aS'transcriptional'
+p372
+aS'diseases'
+p373
+aS'chromatin regulators misregulation'
+p374
+aS'gene expression programs'
+p375
+aS'insights'
+p376
+aS'hescs'
+p377
+aS'sequencing'
+p378
+aS'human'
+p379
+aS'embryonic germ layers'
+p380
+aS'specific'
+p381
+aS'somatic cells'
+p382
+aS'scnt'
+p383
+aS'derived'
+p384
+aS'pluripotent embryonic stem'
+p385
+aS'meiosis'
+p386
+aS'genes'
+p387
+aS'cell'
+p388
+aS'super enhancers'
+p389
+aS'master transcription factors'
+p390
+aS'mediator'
+p391
+aS'hescs'
+p392
+aS'sequencing'
+p393
+aS'human'
+p394
+aS'embryonic germ layers'
+p395
+aS'specific'
+p396
+aS'cells'
+p397
+aS'reprogrammed'
+p398
+aS'fibroblast cultures'
+p399
+aS'adult fibroblasts'
+p400
+aS'factors'
+p401
+aS'mtorc1'
+p402
+aS'sirt4'
+p403
+aS'cancer'
+p404
+aS'proliferating mammalian cells'
+p405
+aS'targeting nutrient metabolism'
+p406
+aS'somatic cells'
+p407
+aS'scnt'
+p408
+aS'derived'
+p409
+aS'pluripotent embryonic stem'
+p410
+aS'meiosis'
+p411
+aS'genes'
+p412
+aS'cell'
+p413
+aS'super enhancers'
+p414
+aS'master transcription factors'
+p415
+aS'mediator'
+p416
+aS'hescs'
+p417
+aS'sequencing'
+p418
+aS'human'
+p419
+aS'embryonic germ layers'
+p420
+aS'specific'
+p421
+aS'cells'
+p422
+aS'reprogrammed'
+p423
+aS'fibroblast cultures'
+p424
+aS'adult fibroblasts'
+p425
+aS'factors'
+p426
+aS'mtorc1'
+p427
+aS'sirt4'
+p428
+aS'cancer'
+p429
+aS'proliferating mammalian cells'
+p430
+aS'targeting nutrient metabolism'
+p431
+aS'cells'
+p432
+aS'reprogramming'
+p433
+aS'host'
+p434
+aS'bacterial pathogen'
+p435
+aS'plasticity'
+p436
+aS'cells'
+p437
+aS'reprogramming'
+p438
+aS'wave'
+p439
+aS'ipscs'
+p440
+aS'mechanistic insights'
+p441
+aS'cells'
+p442
+aS'reprogrammed'
+p443
+aS'fibroblast cultures'
+p444
+aS'adult fibroblasts'
+p445
+aS'factors'
+p446
+aS'tfs'
+p447
+aS'binding'
+p448
+aS'sequencing'
+p449
+aS'specificity'
+p450
+aS'transcription factors'
+p451
+aS'exosomes'
+p452
+aS'fibroblast'
+p453
+aS'bccs'
+p454
+aS'bcc'
+p455
+aS'cell'
+p456
+aS'cells'
+p457
+aS'reprogrammed'
+p458
+aS'fibroblast cultures'
+p459
+aS'adult fibroblasts'
+p460
+aS'factors'
+p461
+aS'cells'
+p462
+aS'human'
+p463
+aS'pluripotent'
+p464
+aS'stem'
+p465
+aS'generation'
+p466
+aS'cells'
+p467
+aS'reprogrammed'
+p468
+aS'fibroblast cultures'
+p469
+aS'adult fibroblasts'
+p470
+aS'factors'
+p471
+aS'pluripotency'
+p472
+aS'pathway'
+p473
+aS'induced'
+p474
+aS'tlr3'
+p475
+aS'approach'
+p476
+aS'cells'
+p477
+aS'human'
+p478
+aS'pluripotent'
+p479
+aS'stem'
+p480
+aS'generation'
+p481
+aS'gene expression data'
+p482
+aS'embedded'
+p483
+aS'experimental'
+p484
+aS'transcriptional behavior'
+p485
+aS'misinterpretation'
+p486
+aS'reprogramming'
+p487
+aS'cells'
+p488
+aS'gene expression'
+p489
+aS'ipscs'
+p490
+aS'sox2'
+p491
+aS'reprogramming'
+p492
+aS'cells'
+p493
+aS'gene expression'
+p494
+aS'ipscs'
+p495
+aS'sox2'
+p496
+aS'pkm2'
+p497
+aS'histone h3'
+p498
+aS'phosphorylation'
+p499
+aS'nonmetabolic functions'
+p500
+aS'tumor cell proliferation'
+p501
+aS'smokers'
+p502
+aS'mutations'
+p503
+aS'sequencing'
+p504
+aS'lung cancer'
+p505
+aS'cell lung carcinoma'
+p506
+aS'pirnas'
+p507
+aS'memory'
+p508
+aS'small rna mediated'
+p509
+aS'neurons'
+p510
+aS'rna mediated gene'
+p511
+aS'mtor'
+p512
+aS'pathway'
+p513
+aS'homeostasis'
+p514
+aS'rapamycin'
+p515
+aS'obesity'
+p516
+aS'transmembrane proteins'
+p517
+aS'sequence'
+p518
+aS'evolutionary'
+p519
+aS'method'
+p520
+aS'predict'
+p521
+aS'neoplasm'
+p522
+aS'cancer genome'
+p523
+aS'monoclonal evolution'
+p524
+aS'inferring clonal evolution'
+p525
+aS'genetic architecture'
+p526
+aS'cells'
+p527
+aS'embryos'
+p528
+aS'chimeric offspring'
+p529
+aS'chimera assay'
+p530
+aS'chimeric animals'
+p531
+aS'interactions'
+p532
+aS'promoter'
+p533
+aS'cell specific'
+p534
+aS'genes'
+p535
+aS'transcription regulation'
+p536
+aS'chromosomal'
+p537
+aS'domains'
+p538
+aS'drosophila embryonic nuclei'
+p539
+aS'readout'
+p540
+aS'clustering'
+p541
+aS'gldc'
+p542
+aS'cancer'
+p543
+aS'metabolism'
+p544
+aS'tics'
+p545
+aS'cell'
+p546
+aS'hifs'
+p547
+aS'oxygen homeostasis represents'
+p548
+aS'pathobiology'
+p549
+aS'understanding metazoan evolution'
+p550
+aS'metazoan species rapid'
+p551
+aS'cells'
+p552
+aS'reprogrammed'
+p553
+aS'fibroblast cultures'
+p554
+aS'adult fibroblasts'
+p555
+aS'factors'
+p556
+aS'mutations'
+p557
+aS'tumor'
+p558
+aS'ccrcc'
+p559
+aS'adjacent kidney tissue'
+p560
+aS'pbrm1 quantitative population'
+p561
+aS'cell'
+p562
+aS'opcs'
+p563
+aS'lineages'
+p564
+aS'tumor'
+p565
+aS'nscs'
+p566
+aS'reprogramming'
+p567
+aS'somatic cells'
+p568
+aS'pluripotency'
+p569
+aS'ipscs'
+p570
+aS'mir302 367'
+p571
+aS'cells'
+p572
+aS'reprogrammed'
+p573
+aS'fibroblast cultures'
+p574
+aS'adult fibroblasts'
+p575
+aS'factors'
+p576
+aS'estrogen'
+p577
+aS'transcripts'
+p578
+aS'transcriptome'
+p579
+aS'gro seq data'
+p580
+aS'rna polymerases'
+p581
+aS'tet1'
+p582
+aS'5mc'
+p583
+aS'5hmc'
+p584
+aS'dna methylation'
+p585
+aS'mesc differentiation'
+p586
+aS'cells'
+p587
+aS'human'
+p588
+aS'pluripotent'
+p589
+aS'stem'
+p590
+aS'generation'
+p591
+aS'inflammasome'
+p592
+aS'nlrp6'
+p593
+aS'microbiota'
+p594
+aS'prevotellaceae'
+p595
+aS'dss colitis'
+p596
+aS'cells'
+p597
+aS'molecules'
+p598
+aS'subtilis'
+p599
+aS'nanotubes'
+p600
+aS'extensions bridging neighboring'
+p601
+aS'cells'
+p602
+aS'reprogrammed'
+p603
+aS'fibroblast cultures'
+p604
+aS'adult fibroblasts'
+p605
+aS'factors'
+p606
+aS'il 7'
+p607
+aS'cytokine'
+p608
+aS'cell'
+p609
+aS'immune response'
+p610
+aS'lcmv clone 13'
+p611
+aS'aneuploid'
+p612
+aS'aicar'
+p613
+aS'cancer'
+p614
+aS'cells'
+p615
+aS'inhibitor 17 aag'
+p616
+aS'genome'
+p617
+aS'histone modifications'
+p618
+aS'rna sequence elements'
+p619
+aS'chromatin structure'
+p620
+aS'protein diversity'
+p621
+aS'antibodies'
+p622
+aS'identification'
+p623
+aS'diagnostically'
+p624
+aS'diseases'
+p625
+aS'candidate igg biomarkers'
+p626
+aS'mammalian gene expression'
+p627
+aS'studies'
+p628
+aS'control mammalian gene'
+p629
+aS'insights'
+p630
+aS'propagated'
+p631
+aS'osteocalcin'
+p632
+aS'bone'
+p633
+aS'cell'
+p634
+aS'regulator'
+p635
+aS'endocrine function'
+p636
+aS'long ncrnas'
+p637
+aS'human genome'
+p638
+aS'human cell lines'
+p639
+aS'biological functions'
+p640
+aS'mammalian transcriptome'
+p641
+aS'cell'
+p642
+aS'reprogramming'
+p643
+aS'ipscs'
+p644
+aS'efficient'
+p645
+aS'induced pluripotent stem'
+p646
+aS'cells'
+p647
+aS'reprogrammed'
+p648
+aS'fibroblast cultures'
+p649
+aS'adult fibroblasts'
+p650
+aS'factors'
+p651
+aS'chromatin'
+p652
+aS'genome'
+p653
+aS'domain organization'
+p654
+aS'drosophila cells'
+p655
+aS'metazoan cell'
+p656
+aS'myc'
+p657
+aS'es cell'
+p658
+aS'cancer'
+p659
+aS'modules'
+p660
+aS'protein'
+p661
+aS'melanoma'
+p662
+aS'cancer'
+p663
+aS'diverse aberrations'
+p664
+aS'detecting aberrations'
+p665
+aS'multiple tumor dependencies'
+p666
+aS'cells'
+p667
+aS'reprogrammed'
+p668
+aS'fibroblast cultures'
+p669
+aS'adult fibroblasts'
+p670
+aS'factors'
+p671
+aS'immune'
+p672
+aS'cancer therapy'
+p673
+aS'cancer cells'
+p674
+aS'metastasis inflammation'
+p675
+aS'tumor development'
+p676
+aS'cell'
+p677
+aS'emt'
+p678
+aS'multiple tissues'
+p679
+aS'organs'
+p680
+aS'mesenchymal transition'
+p681
+aS'receptors'
+p682
+aS'prrs'
+p683
+aS'infection'
+p684
+aS'signaling pathways'
+p685
+aS'autoimmunity'
+p686
+aS'cells'
+p687
+aS'human'
+p688
+aS'pluripotent'
+p689
+aS'stem'
+p690
+aS'generation'
+p691
+aS'rtks'
+p692
+aS'intracellular tyrosine kinase'
+p693
+aS'tyrosine kinase domains'
+p694
+aS'receptor tyrosine kinases'
+p695
+aS'mechanisms'
+p696
+aS'cells'
+p697
+aS'reprogrammed'
+p698
+aS'fibroblast cultures'
+p699
+aS'adult fibroblasts'
+p700
+aS'factors'
+p701
+aS'immune'
+p702
+aS'cancer therapy'
+p703
+aS'cancer cells'
+p704
+aS'metastasis inflammation'
+p705
+aS'tumor development'
+p706
+aS'immune'
+p707
+aS'cancer therapy'
+p708
+aS'cancer cells'
+p709
+aS'metastasis inflammation'
+p710
+aS'tumor development'
+p711
+aS'cells'
+p712
+aS'reprogrammed'
+p713
+aS'fibroblast cultures'
+p714
+aS'adult fibroblasts'
+p715
+aS'factors'
+p716
+aS'autophagosomes'
+p717
+aS'mitochondria'
+p718
+aS'membrane'
+p719
+aS'starvation induced autophagy'
+p720
+aS'nbd phosphotidylethanolamine'
+p721
+aS'receptors'
+p722
+aS'prrs'
+p723
+aS'infection'
+p724
+aS'signaling pathways'
+p725
+aS'autoimmunity'
+p726
+aS'jarid1b'
+p727
+aS'melanoma cells'
+p728
+aS'subpopulation'
+p729
+aS'1 rbp2 h1'
+p730
+aS'kdm5b plu 1'
+p731
+aS'er'
+p732
+aS'intersection'
+p733
+aS'chronic metabolic diseases'
+p734
+aS'stress signaling pathways'
+p735
+aS'protein folding'
+p736
+aS'dna'
+p737
+aS'brca1'
+p738
+aS'hr'
+p739
+aS'53bp1'
+p740
+aS'joining'
+p741
+aS'mmps'
+p742
+aS'cancer'
+p743
+aS'tissue'
+p744
+aS'inflammation'
+p745
+aS'extracellular proteolysis mediates'
+p746
+aS'cells'
+p747
+aS'reprogrammed'
+p748
+aS'fibroblast cultures'
+p749
+aS'adult fibroblasts'
+p750
+aS'factors'
+p751
+aS'integrin'
+p752
+aS'protein'
+p753
+aS'promotes cell invasion'
+p754
+aS'promote invasion'
+p755
+aS'egf receptor'
+p756
+aS'mirnas'
+p757
+aS'gene'
+p758
+aS'transcriptional'
+p759
+aS'sirnas'
+p760
+aS'physcomitrella patens mutants'
+p761
+aS'cell'
+p762
+aS'emt'
+p763
+aS'multiple tissues'
+p764
+aS'organs'
+p765
+aS'mesenchymal transition'
+p766
+aS'immune'
+p767
+aS'cancer therapy'
+p768
+aS'cancer cells'
+p769
+aS'metastasis inflammation'
+p770
+aS'tumor development'
+p771
+aS'cancers'
+p772
+aS'scs'
+p773
+aS'cscs'
+p774
+aS'g1 tumors'
+p775
+aS'hnmscs'
+p776
+aS'receptors'
+p777
+aS'prrs'
+p778
+aS'infection'
+p779
+aS'signaling pathways'
+p780
+aS'autoimmunity'
+p781
+aS'cells'
+p782
+aS'reprogrammed'
+p783
+aS'fibroblast cultures'
+p784
+aS'adult fibroblasts'
+p785
+aS'factors'
+p786
+aS'mirna'
+p787
+aS'trbp'
+p788
+aS'generating complex mitogenic'
+p789
+aS'complex mitogenic signaling'
+p790
+aS'7 tumor suppressor'
+p791
+aS'psps'
+p792
+aS'phosphatases'
+p793
+aS'protein'
+p794
+aS'pp2a'
+p795
+aS'phosphoprotein substrates'
+p796
+aS'dopaminergic neurons'
+p797
+aS'olfactory memories'
+p798
+aS'ppl1 cluster'
+p799
+aS'intrinsic mushroom body'
+p800
+aS'conditioning dopamine'
+p801
+aS'testosterone'
+p802
+aS'estrogen'
+p803
+aS'aromatase'
+p804
+aS'behaviors'
+p805
+aS'male'
+p806
+aS'therapy'
+p807
+aS'coronary'
+p808
+aS'bleeding'
+p809
+aS'stent thrombosis'
+p810
+aS'prevention'
+p811
+aS'replicates'
+p812
+aS'experiments'
+p813
+aS'retracted'
+p814
+aS'article'
+p815
+aS'figure'
+p816
+aS'ras'
+p817
+aS'mitotic'
+p818
+aS'pathway'
+p819
+aS'cancers'
+p820
+aS'genes'
+p821
+aS'ctcf'
+p822
+aS'chromatin architecture'
+p823
+aS'regulated genomic loci'
+p824
+aS'developmentally regulated genomic'
+p825
+aS'mechanistic insights'
+p826
+aS'ras'
+p827
+aS'mitotic'
+p828
+aS'pathway'
+p829
+aS'cancers'
+p830
+aS'genes'
+p831
+aS'fusion'
+p832
+aS'hiv 1'
+p833
+aS'viruses'
+p834
+aS'viral'
+p835
+aS'dynamin inhibitor'
+p836
+aS'replicates'
+p837
+aS'experiments'
+p838
+aS'retracted'
+p839
+aS'article'
+p840
+aS'figure'
+p841
+aS'cells'
+p842
+aS'reprogrammed'
+p843
+aS'fibroblast cultures'
+p844
+aS'adult fibroblasts'
+p845
+aS'factors'
+p846
+aS'semantic relatedness'
+p847
+aS'applications'
+p848
+aS'methods'
+p849
+aS'evaluation'
+p850
+aS'abstractover'
+p851
+aS'cells'
+p852
+aS'reprogrammed'
+p853
+aS'fibroblast cultures'
+p854
+aS'adult fibroblasts'
+p855
+aS'factors'
+p856
+aS'immune'
+p857
+aS'autoimmunity'
+p858
+aS'microrna'
+p859
+aS'cellular context'
+p860
+aS'key cellular proteins'
+p861
+aS'chromatin regulatory complexes'
+p862
+aS'regulatory complexes produce'
+p863
+aS'histone modifications'
+p864
+aS'arrays'
+p865
+aS'complexes produce biological'
+p866
+aS'functional genomics research'
+p867
+aS'abstracta'
+p868
+aS'helicos'
+p869
+aS'illumina solexa'
+p870
+aS'454 roche'
+p871
+aS'rna'
+p872
+aS'mutations'
+p873
+aS'rnps'
+p874
+aS'noncoding rnas'
+p875
+aS'complex code'
+p876
+aS'cells'
+p877
+aS'human'
+p878
+aS'pluripotent'
+p879
+aS'stem'
+p880
+aS'generation'
+p881
+aS'cells'
+p882
+aS'reprogrammed'
+p883
+aS'fibroblast cultures'
+p884
+aS'adult fibroblasts'
+p885
+aS'factors'
+p886
+aS'dna'
+p887
+aS'aging'
+p888
+aS'sirt1'
+p889
+aS'transcriptional'
+p890
+aS'genomic instability'
+p891
+aS'2008'
+p892
+aS'al'
+p893
+aS'histone modifications play'
+p894
+aS'repression'
+p895
+aS'2007'
+p896
+aS'cells'
+p897
+aS'emt'
+p898
+aS'markers'
+p899
+aS'hmles'
+p900
+aS'form mammospheres'
+p901
+aS'pah'
+p902
+aS'prognosis'
+p903
+aS'treatment'
+p904
+aS'pulmonary hypertension'
+p905
+aS'pulmonary arterial hypertension'
+p906
+aS'cells'
+p907
+aS'emt'
+p908
+aS'markers'
+p909
+aS'hmles'
+p910
+aS'form mammospheres'
+p911
+aS'cells'
+p912
+aS'human'
+p913
+aS'pluripotent'
+p914
+aS'stem'
+p915
+aS'generation'
+p916
+aS'cells'
+p917
+aS'reprogrammed'
+p918
+aS'fibroblast cultures'
+p919
+aS'adult fibroblasts'
+p920
+aS'factors'
+p921
+aS'retract'
+p922
+aS'authors'
+p923
+aS'errors'
+p924
+aS'paper'
+p925
+aS'http www elsevier'
+p926
+aS'p53'
+p927
+aS'mdm2'
+p928
+aS'acetylation'
+p929
+aS'activation'
+p930
+aS'phosphorylation status'
+p931
+aS'factors'
+p932
+aS'cells'
+p933
+aS'repressed'
+p934
+aS'pluripotent state'
+p935
+aS'maintain'
+p936
+aS'transcription'
+p937
+aS'es cell'
+p938
+aS'tfs'
+p939
+aS'myc'
+p940
+aS'specific'
+p941
+aS'cells'
+p942
+aS'human'
+p943
+aS'pluripotent'
+p944
+aS'stem'
+p945
+aS'generation'
+p946
+aS'cells'
+p947
+aS'reprogrammed'
+p948
+aS'fibroblast cultures'
+p949
+aS'adult fibroblasts'
+p950
+aS'factors'
+p951
+aS'reprogramming'
+p952
+aS'somatic cells'
+p953
+aS'nuclear transplantation'
+p954
+aS'enucleated egg'
+p955
+aS'recent insights'
+p956
+aS'stem cell'
+p957
+aS'disease pathogenesis'
+p958
+aS'conditions accompanying aging'
+p959
+aS'function'
+p960
+aS'elderly'
+p961
+aS'cell cycle'
+p962
+aS'mice'
+p963
+aS'probes'
+p964
+aS'phase'
+p965
+aS'green fluorescence'
+p966
+aS'adult neural stem'
+p967
+aS'neural stem cells'
+p968
+aS'newborn neurons'
+p969
+aS'alzheimer'
+p970
+aS'adulthood'
+p971
+aS'cells'
+p972
+aS'vertebrates'
+p973
+aS'drosophila'
+p974
+aS'invertebrates'
+p975
+aS'elucidated'
+p976
+aS'stem cells'
+p977
+aS'rna silencing'
+p978
+aS'pluripotency'
+p979
+aS'converged'
+p980
+aS'maintenance'
+p981
+aS'hscs'
+p982
+aS'hematopoietic stem cells'
+p983
+aS'cellular phenotypes'
+p984
+aS'stem cell biology'
+p985
+aS'cellular interactions'
+p986
+aS'cells'
+p987
+aS'human'
+p988
+aS'pluripotent'
+p989
+aS'stem'
+p990
+aS'generation'
+p991
+aS'cells'
+p992
+aS'reprogrammed'
+p993
+aS'fibroblast cultures'
+p994
+aS'adult fibroblasts'
+p995
+aS'factors'
+p996
+aS'solutions'
+p997
+aS'abstractthe asymptotic behavior'
+p998
+aS'cauchy type nonlinear'
+p999
+aS'type nonlinear fractional'
+p1000
+aS'weighted cauchy type'
+p1001
+aS'hypercyclicity theory'
+p1002
+aS'classical backward shift'
+p1003
+aS'topological space'
+p1004
+aS'rolewicz'
+p1005
+aS'theorem'
+p1006
+aS'cells'
+p1007
+aS'reprogrammed'
+p1008
+aS'fibroblast cultures'
+p1009
+aS'adult fibroblasts'
+p1010
+aS'factors'
+p1011
+aS'histone'
+p1012
+aS'transcription'
+p1013
+aS'regulation'
+p1014
+aS'rna polymerase ii'
+p1015
+aS'mediated'
+p1016
+aS'chromatin'
+p1017
+aS'modifications'
+p1018
+aS'ordered recruitment'
+p1019
+aS'manipulate dna'
+p1020
+aS'nucleosomes'
+p1021
+aS'alterations'
+p1022
+aS'epigenetic abnormalities participate'
+p1023
+aS'neoplasia'
+p1024
+aS'dysregulation'
+p1025
+aS'aberrant gene function'
+p1026
+aS'rna'
+p1027
+aS'silencing'
+p1028
+aS'dna'
+p1029
+aS'regulatory sequences'
+p1030
+aS'inactivation interactions'
+p1031
+aS'histone'
+p1032
+aS'transcription'
+p1033
+aS'regulation'
+p1034
+aS'rna polymerase ii'
+p1035
+aS'mediated'
+p1036
+aS'pten'
+p1037
+aS'2007'
+p1038
+aS'al'
+p1039
+aS'shen'
+p1040
+aS'trotman'
+p1041
+aS'rna'
+p1042
+aS'silencing'
+p1043
+aS'dna'
+p1044
+aS'regulatory sequences'
+p1045
+aS'inactivation interactions'
+p1046
+aS'alterations'
+p1047
+aS'epigenetic abnormalities participate'
+p1048
+aS'neoplasia'
+p1049
+aS'dysregulation'
+p1050
+aS'aberrant gene function'
+p1051
+aS'epithelial stem cell'
+p1052
+aS'morphological'
+p1053
+aS'diagnosis'
+p1054
+aS'epithelia'
+p1055
+aS'human diseases'
+p1056
+aS'foxo'
+p1057
+aS'modest neoplastic phenotypes'
+p1058
+aS'neoplastic phenotypes linked'
+p1059
+aS'broad somatic deletion'
+p1060
+aS'endothelial cell morphogenesis'
+p1061
+aS'cells'
+p1062
+aS'reprogrammed'
+p1063
+aS'fibroblast cultures'
+p1064
+aS'adult fibroblasts'
+p1065
+aS'factors'
+p1066
+aS'variability'
+p1067
+aS'phenotypic'
+p1068
+aS'classical evolutionary theory'
+p1069
+aS'evolved mechanisms'
+p1070
+aS'independent'
+p1071
+aS'vesicles'
+p1072
+aS'proteins'
+p1073
+aS'copies'
+p1074
+aS'model'
+p1075
+aS'lipid mass'
+p1076
+aS'cells'
+p1077
+aS'reprogrammed'
+p1078
+aS'fibroblast cultures'
+p1079
+aS'adult fibroblasts'
+p1080
+aS'factors'
+p1081
+aS'wnt'
+p1082
+aS'tissues germline mutations'
+p1083
+aS'somatic mutations'
+p1084
+aS'adult tissues germline'
+p1085
+aS'wingless'
+p1086
+aS'traits'
+p1087
+aS'tumor stroma'
+p1088
+aS'metastasis occurs'
+p1089
+aS'primary tumor'
+p1090
+aS'concomitant recruitment'
+p1091
+aS'neuronal'
+p1092
+aS'transcription'
+p1093
+aS'regulates'
+p1094
+aS'ccat'
+p1095
+aS'nucleus'
+p1096
+aS'akt'
+p1097
+aS'torc2'
+p1098
+aS'rictor mtor'
+p1099
+aS'sin1'
+p1100
+aS'torc1'
+p1101
+aS'precursors'
+p1102
+aS'fate'
+p1103
+aS'receptor tyrosine kinase'
+p1104
+aS'astrocytic genes'
+p1105
+aS'tyrosine kinase inhibits'
+p1106
+aS'cells'
+p1107
+aS'reprogrammed'
+p1108
+aS'fibroblast cultures'
+p1109
+aS'adult fibroblasts'
+p1110
+aS'factors'
+p1111
+aS'nfat'
+p1112
+aS'tregs'
+p1113
+aS'foxp3'
+p1114
+aS'transcription factor'
+p1115
+aS'cell activation'
+p1116
+aS'tigar'
+p1117
+aS'p53'
+p1118
+aS'cells'
+p1119
+aS'ros'
+p1120
+aS'apoptosis'
+p1121
+aS'mitochondrial dysfunction'
+p1122
+aS'fission'
+p1123
+aS'organelles'
+p1124
+aS'apoptosis'
+p1125
+aS'fusion'
+p1126
+aS'p53'
+p1127
+aS'dram'
+p1128
+aS'cell death'
+p1129
+aS'autophagy'
+p1130
+aS'induced'
+p1131
+aS'cancer'
+p1132
+aS'genomic'
+p1133
+aS'ciap1'
+p1134
+aS'tumors'
+p1135
+aS'yap'
+p1136
+aS'essay'
+p1137
+aS'rnai'
+p1138
+aS'sirnas'
+p1139
+aS'harnessing rna interference'
+p1140
+aS'circumvent'
+p1141
+aS'functions'
+p1142
+aS'alternative splicing'
+p1143
+aS'transcript variants generated'
+p1144
+aS'relevant transcript variants'
+p1145
+aS'proteomic'
+p1146
+aS'suppressor pathway coordinates'
+p1147
+aS'autophagy'
+p1148
+aS'apoptosis'
+p1149
+aS'senescence'
+p1150
+aS'glucose metabolism'
+p1151
+aS'pml'
+p1152
+aS'ck2'
+p1153
+aS'tumor'
+p1154
+aS'posttranslational mechanisms casein'
+p1155
+aS'mechanisms casein kinase'
+p1156
+aS'cells'
+p1157
+aS'interplay'
+p1158
+aS'nfat'
+p1159
+aS'wu'
+p1160
+aS'2006'
+p1161
+aS'sirtuins'
+p1162
+aS'aging'
+p1163
+aS'deacetylases'
+p1164
+aS'cofactor nad'
+p1165
+aS'sir2'
+p1166
+aS'melanoma'
+p1167
+aS'amplification'
+p1168
+aS'nedd9'
+p1169
+aS'focal'
+p1170
+aS'gene'
+p1171
+aS'mirnas'
+p1172
+aS'oncogenes'
+p1173
+aS'wild type p53'
+p1174
+aS'germ cell tumors'
+p1175
+aS'expression'
+p1176
+aS'stem cells'
+p1177
+aS'renewal pathways crucial'
+p1178
+aS'yilmaz'
+p1179
+aS'2006'
+p1180
+aS'ablate'
+p1181
+aS'protein'
+p1182
+aS'organelle'
+p1183
+aS'organellar proteomic inventories'
+p1184
+aS'published organellar proteomic'
+p1185
+aS'39'
+p1186
+aS'immune'
+p1187
+aS'receptors'
+p1188
+aS'prrs'
+p1189
+aS'insights'
+p1190
+aS'allergy'
+p1191
+aS'clock'
+p1192
+aS'hat'
+p1193
+aS'histone'
+p1194
+aS'chromatin remodeling'
+p1195
+aS'acetyl coenzyme'
+p1196
+aS'protein'
+p1197
+aS'organelle proteomes'
+p1198
+aS'expressed tissue'
+p1199
+aS'searchable web browser'
+p1200
+aS'cytosol'
+p1201
+aS'histone lysine demethylases'
+p1202
+aS'histone proteins'
+p1203
+aS'lysine residues'
+p1204
+aS'epigenetic phenomena'
+p1205
+aS'remove methyl marks'
+p1206
+aS'tangential migration'
+p1207
+aS'neuronal'
+p1208
+aS'mammalian brain'
+p1209
+aS'guidance'
+p1210
+aS'ig nrg1'
+p1211
+aS'tor'
+p1212
+aS'rapamycin'
+p1213
+aS'metabolic disorders'
+p1214
+aS'torc2'
+p1215
+aS'autoimmunity'
+p1216
+aS'genes'
+p1217
+aS'repressed'
+p1218
+aS'prc2'
+p1219
+aS'genome'
+p1220
+aS'subunit suz12'
+p1221
+aS'parp 1'
+p1222
+aS'kif4'
+p1223
+aS'neurons'
+p1224
+aS'apoptosis'
+p1225
+aS'activity'
+p1226
+aS'p53'
+p1227
+aS'pet'
+p1228
+aS'tfbs'
+p1229
+aS'genome map'
+p1230
+aS'sequencing strategy'
+p1231
+aS'tor'
+p1232
+aS'rapamycin'
+p1233
+aS'metabolic disorders'
+p1234
+aS'torc2'
+p1235
+aS'autoimmunity'
+p1236
+aS'rbccs'
+p1237
+aS'vegf'
+p1238
+aS'cells'
+p1239
+aS'recruitment'
+p1240
+aS'perivascular'
+p1241
+aS'memory'
+p1242
+aS'pattern'
+p1243
+aS'risc pathway'
+p1244
+aS'specific'
+p1245
+aS'sde3 helicase armitage'
+p1246
+aS'immune'
+p1247
+aS'receptors'
+p1248
+aS'prrs'
+p1249
+aS'insights'
+p1250
+aS'allergy'
+p1251
+aS'tumor cells'
+p1252
+aS'macrophages'
+p1253
+aS'invasion microenvironment'
+p1254
+aS'microenvironment facilitate angiogenesis'
+p1255
+aS'egress'
+p1256
+aS'receptor'
+p1257
+aS'mediate'
+p1258
+aS'inflammatory signals'
+p1259
+aS'recruitment'
+p1260
+aS'steroid dependent repression'
+p1261
+aS'2006'
+p1262
+aS'al'
+p1263
+aS'hallikas'
+p1264
+aS'genome'
+p1265
+aS'regulatory sequences'
+p1266
+aS'nanog'
+p1267
+aS'oct4'
+p1268
+aS'sox2'
+p1269
+aS'cells'
+p1270
+aS'transcriptional regulation'
+p1271
+aS'microbial'
+p1272
+aS'chronic'
+p1273
+aS'liver cancer'
+p1274
+aS'innate immune signaling'
+p1275
+aS'innate immune response'
+p1276
+aS'nanog'
+p1277
+aS'oct4'
+p1278
+aS'sox2'
+p1279
+aS'cells'
+p1280
+aS'transcriptional regulation'
+p1281
+aS'stathmin'
+p1282
+aS'amygdala'
+p1283
+aS'fear'
+p1284
+aS'ltp'
+p1285
+aS'dependent'
+p1286
+aS'interactions'
+p1287
+aS'protein'
+p1288
+aS'validated experimentally'
+p1289
+aS'topological'
+p1290
+aS'crmp1'
+p1291
+aS'actin'
+p1292
+aS'proteins'
+p1293
+aS'membrane invagination'
+p1294
+aS'pathway'
+p1295
+aS'analyzed'
+p1296
+aS'beclin 1'
+p1297
+aS'bcl 2'
+p1298
+aS'autophagy'
+p1299
+aS'protein'
+p1300
+aS'interaction'
+p1301
+aS'risc'
+p1302
+aS'rna'
+p1303
+aS'sirna'
+p1304
+aS'argonaute2'
+p1305
+aS'mirna processing'
+p1306
+aS'specific mirna genes'
+p1307
+aS'mirna genes contributes'
+p1308
+aS'apoptosis'
+p1309
+aS'micrornas'
+p1310
+aS'proliferation'
+p1311
+aS'genes'
+p1312
+aS'rna silencing'
+p1313
+aS'transposons'
+p1314
+aS'pathways'
+p1315
+aS'downregulation bioinformatic analyses'
+p1316
+aS'oocytes'
+p1317
+aS'germ cell'
+p1318
+aS'bm'
+p1319
+aS'mice'
+p1320
+aS'germline markers'
+p1321
+aS'satellite cells'
+p1322
+aS'myofibers'
+p1323
+aS'muscle'
+p1324
+aS'transplanted'
+p1325
+aS'regeneration'
+p1326
+aS'e3 ubiquitin ligase'
+p1327
+aS'e3 ligase'
+p1328
+aS'2005'
+p1329
+aS'cell'
+p1330
+aS'ubiquitin mediated protein'
+p1331
+aS'cells'
+p1332
+aS'isotope 14c'
+p1333
+aS'adult human brain'
+p1334
+aS'occipital neurons'
+p1335
+aS'synthesized'
+p1336
+aS'mcl 1'
+p1337
+aS'mule'
+p1338
+aS'ubiquitin ligase'
+p1339
+aS'damage induced apoptosis'
+p1340
+aS'bcl 2 family'
+p1341
+aS'rna'
+p1342
+aS'posttranscriptional gene silencing'
+p1343
+aS'transcriptional gene silencing'
+p1344
+aS'gene silencing mechanism'
+p1345
+aS'epigenetic transcriptional gene'
+p1346
+aS'protein'
+p1347
+aS'microdomains'
+p1348
+aS'cell'
+p1349
+aS'membrane'
+p1350
+aS'lat'
+p1351
+aS'arf'
+p1352
+aS'p53'
+p1353
+aS'suppresses'
+p1354
+aS'cells'
+p1355
+aS'inactivation'
+p1356
+aS'mitochondrial ros'
+p1357
+aS'apoptosis'
+p1358
+aS'p66shc'
+p1359
+aS'redox'
+p1360
+aS'generation'
+p1361
+aS'nanog'
+p1362
+aS'oct4'
+p1363
+aS'sox2'
+p1364
+aS'cells'
+p1365
+aS'transcriptional regulation'
+p1366
+aS'nucleosome'
+p1367
+aS'remodeled'
+p1368
+aS'chromatin templates'
+p1369
+aS'promoters'
+p1370
+aS'histones'
+p1371
+aS'interactions'
+p1372
+aS'protein'
+p1373
+aS'validated experimentally'
+p1374
+aS'topological'
+p1375
+aS'crmp1'
+p1376
+aS'jnk'
+p1377
+aS'foxo'
+p1378
+aS'iis'
+p1379
+aS'life span'
+p1380
+aS'signaling'
+p1381
+aS'sumo'
+p1382
+aS'protein'
+p1383
+aS'modified'
+p1384
+aS'rapidly deconjugated'
+p1385
+aS'substrate'
+p1386
+aS'cells'
+p1387
+aS'bascs'
+p1388
+aS'lung'
+p1389
+aS'bronchiolar'
+p1390
+aS'adenocarcinoma'
+p1391
+aS'protein'
+p1392
+aS'microdomains'
+p1393
+aS'cell'
+p1394
+aS'membrane'
+p1395
+aS'lat'
+p1396
+aS'cells'
+p1397
+aS'breast carcinomas'
+p1398
+aS'sdf 1'
+p1399
+aS'tumor'
+p1400
+aS'fibroblasts'
+p1401
+aS'receptors'
+p1402
+aS'ephrin'
+p1403
+aS'ligands'
+p1404
+aS'eph'
+p1405
+aS'coexpressed'
+p1406
+aS'neurons'
+p1407
+aS'expression'
+p1408
+aS'rest'
+p1409
+aS'multistage repressor mechanism'
+p1410
+aS'transitions'
+p1411
+aS'gene'
+p1412
+aS'demonstrate'
+p1413
+aS'locus repositioning'
+p1414
+aS'parasite plasmodium falciparum'
+p1415
+aS'falciparum undergoes antigenic'
+p1416
+aS'cell'
+p1417
+aS'ampk'
+p1418
+aS'glucose'
+p1419
+aS'cellular'
+p1420
+aS'activation'
+p1421
+aS'arginine methylation'
+p1422
+aS'identification'
+p1423
+aS'protein phosphorylation'
+p1424
+aS'substrates'
+p1425
+aS'mainstream'
+p1426
+aS'atypical receptor tyrosine'
+p1427
+aS'receptor tyrosine kinase'
+p1428
+aS'noncanonical wnt pathway'
+p1429
+aS'components'
+p1430
+aS'canonical'
+p1431
+aS'histone'
+p1432
+aS'lsd1'
+p1433
+aS'transcription'
+p1434
+aS'demethylation'
+p1435
+aS'h3 lysine 4'
+p1436
+aS'p53'
+p1437
+aS'tumorigenesis'
+p1438
+aS'abstractdespite'
+p1439
+aS'mdm2'
+p1440
+aS'mice'
+p1441
+aS'abstracthistone lysine methylation'
+p1442
+aS'chromatin template'
+p1443
+aS'histone lysine demethylase'
+p1444
+aS'robust modifications'
+p1445
+aS'2004'
+p1446
+aS'cells'
+p1447
+aS'es'
+p1448
+aS'neonatal testis'
+p1449
+aS'embryonic'
+p1450
+aS'derive multipotential stem'
+p1451
+aS'par1'
+p1452
+aS'invasion'
+p1453
+aS'protease'
+p1454
+aS'receptors'
+p1455
+aS'mmp 1'
+p1456
+aS'p18'
+p1457
+aS'p53'
+p1458
+aS'dna damage'
+p1459
+aS'haploinsufficient tumor suppressor'
+p1460
+aS'response'
+p1461
+aS'specific alternative splicing'
+p1462
+aS'sr protein'
+p1463
+aS'alternative splicing events'
+p1464
+aS'2005'
+p1465
+aS'asf sf2'
+p1466
+aS'free radical theory'
+p1467
+aS'aging postulates'
+p1468
+aS'invertebrate'
+p1469
+aS'mitochondrial metabolism'
+p1470
+aS'intracellular reactive oxygen'
+p1471
+aS'autophagy'
+p1472
+aS'intracellular nutrients'
+p1473
+aS'extracellular nutrients'
+p1474
+aS'survival'
+p1475
+aS'abstractthe eukaryotic cell'
+p1476
+aS'shisa'
+p1477
+aS'wnt'
+p1478
+aS'receptor'
+p1479
+aS'inhibited'
+p1480
+aS'fgf signaling'
+p1481
+aS'degradation'
+p1482
+aS'protein'
+p1483
+aS'proteasome'
+p1484
+aS'cdc48'
+p1485
+aS'pathway'
+p1486
+aS'aging'
+p1487
+aS'mutant mice'
+p1488
+aS'metabolism'
+p1489
+aS'manifestations'
+p1490
+aS'review sir2'
+p1491
+aS'fluorescent'
+p1492
+aS'gfp'
+p1493
+aS'cells'
+p1494
+aS'expression'
+p1495
+aS'cellular components'
+p1496
+aS'coactivators'
+p1497
+aS'pathways'
+p1498
+aS'transcription factors'
+p1499
+aS'control'
+p1500
+aS'hepatic gluconeogenesis quantitative'
+p1501
+aS'cells'
+p1502
+aS'tlr induced'
+p1503
+aS'memory cd4'
+p1504
+aS'activation'
+p1505
+aS'demonstrate'
+p1506
+aS'rna'
+p1507
+aS'rdp1'
+p1508
+aS'rits'
+p1509
+aS'complexes'
+p1510
+aS'noncoding centromeric rnas'
+p1511
+aS'circadian'
+p1512
+aS'cell'
+p1513
+aS'oscillators'
+p1514
+aS'fibroblasts'
+p1515
+aS'culture experiments'
+p1516
+aS'chondrocyte hypertrophy'
+p1517
+aS'hdac4'
+p1518
+aS'runx2'
+p1519
+aS'mimicking'
+p1520
+aS'differentiation'
+p1521
+aS'ryk'
+p1522
+aS'wnt'
+p1523
+aS'dishevelled transgenic mice'
+p1524
+aS'neurite outgrowth induced'
+p1525
+aS'tyrosine kinase family'
+p1526
+aS'heterogeneous organelle chromosomes'
+p1527
+aS'chromatin domains'
+p1528
+aS'abstractthe eukaryotic cell'
+p1529
+aS'eukaryotic cell nucleus'
+p1530
+aS'nonrandomly positioned'
+p1531
+aS'differentiation'
+p1532
+aS'tsc1'
+p1533
+aS'pathway'
+p1534
+aS'tissue'
+p1535
+aS'patterning'
+p1536
+aS'twist'
+p1537
+aS'tumor'
+p1538
+aS'metastasis'
+p1539
+aS'cell'
+p1540
+aS'emt'
+p1541
+aS'stem cells'
+p1542
+aS'extrinsic'
+p1543
+aS'tumors'
+p1544
+aS'abstractproteins'
+p1545
+aS'embryonic'
+p1546
+aS'twist'
+p1547
+aS'tumor'
+p1548
+aS'metastasis'
+p1549
+aS'cell'
+p1550
+aS'emt'
+p1551
+aS'hscs'
+p1552
+aS'ang 1'
+p1553
+aS'tie2'
+p1554
+aS'bm niche'
+p1555
+aS'interaction'
+p1556
+aS'emt'
+p1557
+aS'breast cancer cells'
+p1558
+aS'repress'
+p1559
+aS'invasive malignancies'
+p1560
+aS'2004'
+p1561
+aS'kinases'
+p1562
+aS'pikks'
+p1563
+aS'protein protein contacts'
+p1564
+aS'abstractthe phosphoinositide 3'
+p1565
+aS'substrates'
+p1566
+aS'cholerae'
+p1567
+aS'mrna'
+p1568
+aS'abstractsmall regulatory rnas'
+p1569
+aS'pairing'
+p1570
+aS'virulence'
+p1571
+aS'huntingtin'
+p1572
+aS'transport'
+p1573
+aS'protein'
+p1574
+aS'pathogenesis'
+p1575
+aS'neuronal toxicity'
+p1576
+aS'fgf22'
+p1577
+aS'granule cells'
+p1578
+aS'fgfr2'
+p1579
+aS'axons'
+p1580
+aS'presynaptic organizing molecules'
+p1581
+aS'cdk6'
+p1582
+aS'cell'
+p1583
+aS'cdk4'
+p1584
+aS'proliferate'
+p1585
+aS'mitogenic stimulation'
+p1586
+aS'cell'
+p1587
+aS'interpret environmental cues'
+p1588
+aS'acute myeloid leukemia'
+p1589
+aS'correlated'
+p1590
+aS'level'
+p1591
+aS'srnas'
+p1592
+aS'cholerae'
+p1593
+aS'mrna'
+p1594
+aS'quorum sensing'
+p1595
+aS'vibrio harveyi'
+p1596
+aS'chromatin fibers'
+p1597
+aS'gene'
+p1598
+aS'domains'
+p1599
+aS'genomic microarrays'
+p1600
+aS'metaphase chromosomes'
+p1601
+aS'mdm2'
+p1602
+aS'nedd8'
+p1603
+aS'e3 ligase'
+p1604
+aS'p53'
+p1605
+aS'substrate proteins'
+p1606
+aS'dicer'
+p1607
+aS'sirna'
+p1608
+aS'mirna pathways'
+p1609
+aS'abstractthe pathway'
+p1610
+aS'rnai'
+p1611
+a(itagger
+MultiTag
+p1612
+(dp1613
+S'rating'
+p1614
+F0.02564102564102564
+sS'string'
+p1615
+S'2004'
+p1616
+sS'stem'
+p1617
+g1616
+sS'terminal'
+p1618
+I01
+sS'subratings'
+p1619
+(lp1620
+F0.02564102564102564
+asS'proper'
+p1621
+I00
+sS'size'
+p1622
+I1
+sba(itagger
+MultiTag
+p1623
+(dp1624
+g1614
+F0.02564102564102564
+sg1615
+S'abstractwhen'
+p1625
+sg1617
+g1625
+sg1618
+I00
+sg1619
+(lp1626
+F0.02564102564102564
+asg1621
+I00
+sg1622
+I1
+sba(itagger
+MultiTag
+p1627
+(dp1628
+g1614
+F0.02564102564102564
+sg1615
+S'patrucco'
+p1629
+sg1617
+g1629
+sg1618
+I00
+sg1619
+(lp1630
+F0.02564102564102564
+asg1621
+I00
+sg1622
+I1
+sba(itagger
+MultiTag
+p1631
+(dp1632
+g1614
+F0.02564102564102564
+sg1615
+S'mice'
+p1633
+sg1617
+g1633
+sg1618
+I01
+sg1619
+(lp1634
+F0.02564102564102564
+asg1621
+I00
+sg1622
+I1
+sba(itagger
+MultiTag
+p1635
+(dp1636
+g1614
+F0.022588442671509716
+sg1615
+S'silencing genes'
+p1637
+sg1617
+S'silenc gene'
+p1638
+sg1618
+I00
+sg1619
+(lp1639
+F0.02564102564102564
+aF0.019899271950639157
+asg1621
+I00
+sg1622
+I2
+sba.
